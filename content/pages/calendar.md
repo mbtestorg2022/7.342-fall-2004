@@ -4,18 +4,179 @@ title: Calendar
 uid: b975a029-eae6-ea5c-ebd4-396537ee6200
 ---
 
-| WEEK # | TOPICS | KEY DATES |
-| --- | --- | --- |
-| 1 | Introduction | &nbsp; |
-| 2 | Genetic Pathways in Cancer | &nbsp; |
-| 3 | Cell Cycle Control | &nbsp; |
-| 4 | Apoptosis | &nbsp; |
-| 5 | Genomic Stability | &nbsp; |
-| 6 | Field trip to tour GenPath Pharmaceuticals | Project 1 due |
-| 7 | Tissue Specificity and Cells of Origin | &nbsp; |
-| 8 | Stem Cells and Cancer | &nbsp; |
-| 9 | Differentiation and Cancer | Project 2 - topic and brief description due |
-| 10 | Metastasis and Cell-Cell Interactions | &nbsp; |
-| 11 | Angiogenesis | &nbsp; |
-| 12 | Rational Design of Cancer Therapeutics | &nbsp; |
-| 13 | The Future of Cancer Research | Final proposal due  {{< br >}}  {{< br >}}Project 2 due
+{{< tableopen >}}
+{{< theadopen >}}
+{{< tropen >}}
+{{< thopen >}}
+WEEK #
+{{< thclose >}}
+{{< thopen >}}
+TOPICS
+{{< thclose >}}
+{{< thopen >}}
+KEY DATES
+{{< thclose >}}
+
+{{< trclose >}}
+
+{{< theadclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+1
+{{< tdclose >}}
+{{< tdopen >}}
+Introduction
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+2
+{{< tdclose >}}
+{{< tdopen >}}
+Genetic Pathways in Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+3
+{{< tdclose >}}
+{{< tdopen >}}
+Cell Cycle Control
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+4
+{{< tdclose >}}
+{{< tdopen >}}
+Apoptosis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+5
+{{< tdclose >}}
+{{< tdopen >}}
+Genomic Stability
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+6
+{{< tdclose >}}
+{{< tdopen >}}
+Field trip to tour GenPath Pharmaceuticals
+{{< tdclose >}}
+{{< tdopen >}}
+Project 1 due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+7
+{{< tdclose >}}
+{{< tdopen >}}
+Tissue Specificity and Cells of Origin
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+8
+{{< tdclose >}}
+{{< tdopen >}}
+Stem Cells and Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+9
+{{< tdclose >}}
+{{< tdopen >}}
+Differentiation and Cancer
+{{< tdclose >}}
+{{< tdopen >}}
+Project 2 - topic and brief description due
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+10
+{{< tdclose >}}
+{{< tdopen >}}
+Metastasis and Cell-Cell Interactions
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+11
+{{< tdclose >}}
+{{< tdopen >}}
+Angiogenesis
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+12
+{{< tdclose >}}
+{{< tdopen >}}
+Rational Design of Cancer Therapeutics
+{{< tdclose >}}
+{{< tdopen >}}
+ 
+{{< tdclose >}}
+
+{{< trclose >}}
+{{< tropen >}}
+{{< tdopen >}}
+13
+{{< tdclose >}}
+{{< tdopen >}}
+The Future of Cancer Research
+{{< tdclose >}}
+{{< tdopen >}}
+Final proposal due  
+  
+Project 2 due
+{{< tdclose >}}
+
+{{< trclose >}}
+
+{{< tableclose >}}
