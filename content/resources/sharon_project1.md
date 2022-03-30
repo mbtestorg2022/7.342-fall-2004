@@ -7,6 +7,7 @@ description: "Project 1 Writing Assignment Proposed abstract for: MacPherson, D.
   \ Lawrence. Used with permission.)"
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/c3b25dce53d21d3e21654a9be02c04aa_sharon_project1.pdf
 file_type: application/pdf
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 1 abstract by Sharon Lawrence
 uid: c3b25dce-53d2-1d3e-2165-4a9be02c04aa

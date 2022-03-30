@@ -6,6 +6,7 @@ description: 'Project 2 proposal based on the following paper: Al-Hajj, M., M. S
   (Courtesy of Sharon Lawrence. Used with permission.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/2bbb1476c666df1caf69f444bcf6ed65_sharon_7_342_p2.pdf
 file_type: application/pdf
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 2 proposal
 uid: 2bbb1476-c666-df1c-af69-f444bcf6ed65

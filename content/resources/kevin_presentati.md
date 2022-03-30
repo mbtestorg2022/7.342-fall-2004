@@ -7,6 +7,7 @@ description: 'Slides for a student''s proposal presentation based on Rego, E. M.
   10173-8. (Courtesy of Dr. Kevin Haigis. Used with Permission.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/6dffdde9da96ef91d1de28a20c5c1395_kevin_presentati.pdf
 file_type: application/pdf
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Are All APLs created Equal?
 uid: 6dffdde9-da96-ef91-d1de-28a20c5c1395

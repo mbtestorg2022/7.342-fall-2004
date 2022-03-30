@@ -7,6 +7,7 @@ description: 'Project 1 Writing Assignment Proposed abstract for: MacPherson, D.
   Havens. Used with permission.)'
 file: https://ol-ocw-studio-app-qa.s3.amazonaws.com/courses/7-342-cancer-biology-from-basic-research-to-the-clinic-fall-2004/869ac633aed24ff07da3eeda0de3c99f_rb_abstract_ehav.pdf
 file_type: application/pdf
+parent_uid: 050715ff-b86c-a406-0f24-ee95e87f03cc
 resourcetype: Document
 title: Project 1 abstract by Emily Havens
 uid: 869ac633-aed2-4ff0-7da3-eeda0de3c99f
